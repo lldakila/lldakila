@@ -1,4 +1,4 @@
-![Dakila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lldakila)
+![Dakila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lldakila&title_color=FB8DA0)
 ### Hi there 👋
 
 <!--
